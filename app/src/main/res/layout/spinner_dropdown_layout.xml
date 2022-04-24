@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--24 April 2022-->
+<!--10119200-->
+<!--Muhammad Jafar Shidik-->
+<!--IF-5-->
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:text="@string/blood_type"
+    android:textSize="16sp"
+    android:textColor="@color/colorGray"
+    android:gravity="center_vertical"
+    android:layout_height="@dimen/_40sdp"
+    android:backgroundTint="@color/colorGray">
+</CheckedTextView>

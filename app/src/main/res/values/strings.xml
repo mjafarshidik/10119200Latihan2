@@ -1,0 +1,79 @@
+<!--24 April 2022-->
+<!--10119200-->
+<!--Muhammad Jafar Shidik-->
+<!--IF-5-->
+<resources>
+    <string name="app_name">10119200Latihan2</string>
+    <string name="username">Username</string>
+    <string name="logo_application">Logo Application</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="connect_with_facebook">CONNECT WITH FACEBOOK</string>
+    <string name="does_not_have_account">doesn\'t have account ?</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="reshus">Reshus</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="personal">Personal</string>
+    <string name="organization">Organization</string>
+    <string name="home_address">Home Address</string>
+    <string name="default_location">Default Location</string>
+    <string name="agree_with_terms_and_conditions">Agree with Terms and Conditions</string>
+    <string name="almost_there">Almost There</string>
+    <string name="almost_there_desc">Thank you for registering with us. One More \nstep, you need to check your email \nto active your account</string>
+    <string name="verify">Verify</string>
+    <string name="verify_your_account">Verify your Account</string>
+    <string name="verify_account_desc">We have send verification code your email</string>
+    <string name="edt_verify_desc">enter verification code here…</string>
+    <string name="send">Send</string>
+    <string name="does_not_get_the_code">doesn\'t get the code?</string>
+    <string name="resend">Resend</string>
+    <string name="icon_back">Icon Back</string>
+    <string name="icon_side_menu">Icon Side Menu</string>
+    <string name="icon_notification">Icon Notification</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="user_name">Muhammad Jafar Shidik</string>
+    <string name="user_blood_type">Blood type : O</string>
+    <string name="_75">75</string>
+    <string name="_100">100</string>
+    <string name="_330">330</string>
+    <string name="blood_give">Blood Give</string>
+    <string name="blood_received">Blood Received</string>
+    <string name="thanks">Thanks</string>
+    <string name="icon_search_donor">Icon Search Donor</string>
+    <string name="icon_blood_needed">Icon Blood Needed</string>
+    <string name="icon_message">Icon Message</string>
+    <string name="icon_donor_history">Icon Donor History</string>
+    <string name="search_donor">Search Donor</string>
+    <string name="search_donor_near_you">Search donor near you</string>
+    <string name="blood_needed">Blood Needed</string>
+    <string name="_4_users_need_blood">4 Users need blood</string>
+    <string name="message">Message</string>
+    <string name="_5_new_messages">5 New Messages</string>
+    <string name="donor_history">Donor History</string>
+    <string name="_5_gives_2_received">5 Gives, 2 Received</string>
+    <string name="blood_type">Blood Type</string>
+
+    <string-array name="blood_type">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="reshus">
+        <item>Reshus</item>
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="job">
+        <item>Job</item>
+        <item>Doctor</item>
+        <item>Patient</item>
+    </string-array>
+</resources>
